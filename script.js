@@ -1,0 +1,38 @@
+const data = [
+  {
+    id: 1,
+    name: "Luxury Villa",
+    address: "Mumbai, India",
+    bedrooms: 3,
+    bathroom: 2,
+    area: 1950,
+    imgPath: "https://images.unsplash.com/photo-1568605114967-8130f3a36994",
+  },
+  {
+    id: 2,
+    name: "Modern Apartment",
+    address: "Pune, India",
+    bedrooms: 4,
+    bathroom: 3,
+    area: 2950,
+    imgPath: "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c",
+  },
+  {
+    id: 3,
+    name: "Beach House",
+    address: "Goa, India",
+    bedrooms: 2,
+    bathroom: 2,
+    area: 1500,
+    imgPath: "https://images.unsplash.com/photo-1505691938895-1758d7feb511",
+  },
+  {
+    id: 4,
+    name: "Penthouse",
+    address: "Delhi, India",
+    bedrooms: 5,
+    bathroom: 4,
+    area: 3500,
+    imgPath: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+  },
+];
